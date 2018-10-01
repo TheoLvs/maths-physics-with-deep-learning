@@ -1,2 +1,3 @@
-# maths-physics-with-deep-learning
-Mathematics and Physics experiments solved with Deep Learning
+# Mathematics and Physics experiments solved with Deep Learning
+
+- Solving differential equations with deep learning
